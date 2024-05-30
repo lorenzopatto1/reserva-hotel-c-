@@ -1,0 +1,14 @@
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\bin\Debug\net8.0\sistema-hospedagem-hotel-csharp.exe
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\bin\Debug\net8.0\sistema-hospedagem-hotel-csharp.deps.json
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\bin\Debug\net8.0\sistema-hospedagem-hotel-csharp.runtimeconfig.json
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\bin\Debug\net8.0\sistema-hospedagem-hotel-csharp.dll
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\bin\Debug\net8.0\sistema-hospedagem-hotel-csharp.pdb
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\sistema-hospedagem-hotel-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\sistema-hospedagem-hotel-csharp.AssemblyInfoInputs.cache
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\sistema-hospedagem-hotel-csharp.AssemblyInfo.cs
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\sistema-hospedagem-hotel-csharp.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\sistema-hospedagem-hotel-csharp.dll
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\refint\sistema-hospedagem-hotel-csharp.dll
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\sistema-hospedagem-hotel-csharp.pdb
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\sistema-hospedagem-hotel-csharp.genruntimeconfig.cache
+C:\Users\loren\OneDrive\Documentos\www\sistema-hospedagem-hotel-csharp\obj\Debug\net8.0\ref\sistema-hospedagem-hotel-csharp.dll
